@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# Master script
+# 
+# Run all the install and setup scripts.
+
+set -e
+cd "$(dirname $0)"/..
+
+# find the installers and run them iteratively
+echo "Running install scripts.."
+find . -name install.sh | while read installer ; do sh -c "${installer}" ; done
+echo "Running setup scripts.."
+find . -name setup.sh | while read installer ; do sh -c "${installer}" ; done
