@@ -14,3 +14,7 @@ echo "Dark mode enabled."
 echo "Setting dock position to right.."
 defaults write com.apple.dock orientation -string "right"
 echo "Dock position set to right."
+
+echo "Disabling power nap.."
+sudo pmset -a powernap 0
+echo "Power nap disabled."
