@@ -8,6 +8,3 @@ echo "Done."
 
 echo "Running system events script.."
 osascript system-events.applescript
-
-echo "Setting dock position to right.."
-defaults write com.apple.dock orientation -string "right"
