@@ -1,6 +1,3 @@
-tell application "Finder" to quit
-tell application "System Preferences" to quit
-
 -- Appearance Suite
 tell application "System Events"
 	tell appearance preferences
@@ -11,5 +8,16 @@ tell application "System Events"
 		set recent documents limit to 0
 		set recent servers limit to 0
 		set scroll bar action to jump to here
+	end tell
+	tell dock preferences
+		set animate to false
+		set autohide to false
+		set dock size to 0.1
+		set magnification to false
+		set minimize effect to scale
+		set minimize into application to true
+		set screen edge to right
+		set show indicators to true
+		set show recents to false
 	end tell
 end tell
