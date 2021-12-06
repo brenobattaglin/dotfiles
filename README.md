@@ -3,3 +3,9 @@
   <h3>Mac OS dotfiles</h3>
 </div>
 Based and inspired on <a href="https://github.com/holman/dotfiles">holman does dotfiles</a>
+
+
+## Getting Started
+
+1. Update the `git/setup.sh` with your name and email.
+2. Run the scripts as you want. 😎
