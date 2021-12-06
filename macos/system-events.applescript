@@ -15,9 +15,8 @@ tell application "System Events"
 		set dock size to 0.1
 		set magnification to false
 		set minimize effect to scale
-		set minimize into application to true
 		set screen edge to right
-		set show indicators to true
-		set show recents to false
+		set indicators to true
+		set recents to false
 	end tell
 end tell
