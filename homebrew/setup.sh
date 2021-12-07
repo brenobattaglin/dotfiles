@@ -15,6 +15,7 @@ brew install --cask figma
 brew install --cask firefox
 brew install --cask flutter
 brew install --cask gimp
+brew install --cask keepingyouawake
 brew install --cask libreoffice
 brew install --cask malwarebytes
 brew install --cask mpv
