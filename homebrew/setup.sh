@@ -17,7 +17,7 @@ brew install --cask flutter
 brew install --cask gimp
 brew install --cask libreoffice
 brew install --cask malwarebytes
+brew install --cask mpv
 brew install --cask postman
 brew install --cask spotify
 brew install --cask visual-studio-code
-brew install --cask vlc
