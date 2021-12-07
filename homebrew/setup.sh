@@ -20,4 +20,5 @@ brew install --cask malwarebytes
 brew install --cask mpv
 brew install --cask postman
 brew install --cask spotify
+brew install --cask visual-studio
 brew install --cask visual-studio-code
