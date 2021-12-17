@@ -1,9 +1,5 @@
-everything: ## Run all the install and setup scripts
-	sh ./scripts/install
-	sh ./scripts/setup
-
-install: ## Run all install scripts
-	sh ./scripts/install
-
-setup: ## Run all setup scripts
-	sh ./scripts/setup
+all: ## Run all the install and setup scripts
+	chmod +x scripts/install
+	chmod +x scripts/setup
+	./scripts/install
+	./scripts/setup

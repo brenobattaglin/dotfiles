@@ -1,12 +1,12 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Main Install script
 # 
-# Run all the install and setup scripts.
+# Run all the install scripts.
 
 set -e
 cd "$(dirname $0)"/..
 
 # find the installers and run them iteratively
 echo "Running install scripts.."
-find . -name install.sh | while read installer ; do sh -c "${installer}" ; done
+find . -name install.sh | while read installer ; do chmod +x "${installer}" && ./"${installer}" ; done
