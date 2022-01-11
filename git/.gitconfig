@@ -1,0 +1,16 @@
+[user]
+	name = First and last name
+	email = email@here.com
+[alias]
+    # List current aliases
+    aliases = "!git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / | grep -v ^'alias '"
+	## Switch to a branch
+	co = checkout
+	# List current branch and the local branches
+	br = branch
+	# Create a new commit
+	ci = commit
+	# Show the working tree status
+	st = status
+	# Show a "short" commit logs
+	slog = log --pretty=format:'%C(yellow)%h %ad %Cgreen%cn %Cred%d %Creset%s' --decorate --date=short
