@@ -3,9 +3,9 @@
 # Main setup script
 # 
 # Run all the install and setup scripts.
-
 set -e
 cd "$(dirname $0)"/..
 
 echo "Running setup scripts.."
-find . -name setup.sh | while read installer ; do sh -c "${installer}" ; done
+# find . -name setup.sh | while read installer ; do chmod +x "${installer}" && ./"${installer}" ; done
+find . -name setup.applescript | while read installer ; do chmod +x "${installer}" && osascript ./"${installer}" ; done

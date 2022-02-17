@@ -1,3 +1,6 @@
+-- Closing system preferences to prevent overring changes
+tell application "System Preferences" to quit
+
 -- Appearance Suite
 tell application "System Events"
 	tell appearance preferences
@@ -12,10 +15,9 @@ tell application "System Events"
 	tell dock preferences
 		set animate to false
 		set autohide to false
-		set dock size to 0.1
+		set dock size to 0.3
 		set magnification to false
 		set minimize effect to scale
-		set screen edge to right
 		set indicators to true
 		set recents to false
 	end tell
