@@ -3,12 +3,12 @@
 # Mac OS system setup
 
 #  Formulae
+brew install cocoapods
 brew install curl
 brew install git
 brew install git-lfs
 
 # Casks
-brew install --cask authy
 brew install --cask discord
 brew install --cask docker
 brew install --cask flutter
