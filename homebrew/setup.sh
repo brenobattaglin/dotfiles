@@ -5,6 +5,7 @@
 #  Formulae
 brew install cocoapods
 brew install curl
+brew install exiftool
 brew install git
 brew install git-lfs
 
