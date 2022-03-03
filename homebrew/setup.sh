@@ -20,6 +20,7 @@ brew install --cask malwarebytes
 brew install --cask postman
 brew install --cask rectangle
 brew install --cask spotify
+brew install --cask steam
 brew install --cask transmission
 brew install --cask veracrypt
 brew install --cask visual-studio-code
