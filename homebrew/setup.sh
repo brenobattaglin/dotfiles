@@ -14,7 +14,9 @@ brew install --cask brave-browser
 brew install --cask caffeine
 brew install --cask discord
 brew install --cask docker
+brew install --cask epic-games
 brew install --cask flutter
+brew install --cask gog-galaxy
 brew install --cask gimp
 brew install --cask malwarebytes
 brew install --cask postman
