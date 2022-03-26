@@ -4,7 +4,7 @@ tell application "System Preferences" to quit
 -- Appearance Suite
 tell application "System Events"
 	tell appearance preferences
-		set appearance to graphite
+		set appearance to blue
 		set dark mode to true
 		set highlight color to blue
 		set recent applications limit to 0
@@ -14,7 +14,7 @@ tell application "System Events"
 	end tell
 	tell dock preferences
 		set animate to false
-		set autohide to false
+		set autohide to true
 		set dock size to 0.3
 		set magnification to false
 		set minimize effect to scale
