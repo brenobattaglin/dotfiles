@@ -1,13 +1,13 @@
 #!/bin/sh
 #
-# Mac OS system setup
 
-#  Formulae
+#  Formulaes
 brew install cocoapods
 brew install curl
 brew install exiftool
 brew install git
 brew install git-lfs
+brew install neofetch
 
 # Casks
 brew install --cask brave-browser
