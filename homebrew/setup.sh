@@ -10,6 +10,7 @@ brew install git-lfs
 brew install neofetch
 
 # Casks
+brew install --cask android-studio
 brew install --cask brave-browser
 brew install --cask caffeine
 brew install --cask discord
