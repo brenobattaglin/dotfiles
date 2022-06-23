@@ -10,11 +10,3 @@ This is my personal macOS dotfiles. Based and inspired on <a href="https://githu
 ## Tips
 
 You'll be prompted to input the admin password sometimes, so follow up the the scripts execution.
-
-## Manual checklist
-
-This is my personal checklist after the setup is done:
-
-- [ ] Sign in on VS Code using GitHub Account
-- [ ] Sign in on VS Code's GitHub Copilot using GitHub Account
-- [ ] Sign in on VS Code's Gitlens using GitHub Account
