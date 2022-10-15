@@ -1,14 +1,5 @@
 #!/bin/sh
-#
 
-#  Formulaes
-brew install cocoapods
-brew install curl
-brew install docker-compose
-brew install exiftool
-brew install git
-brew install git-lfs
-brew install neofetch
 
 # Casks
 brew install --cask android-studio
@@ -30,3 +21,13 @@ brew install --cask transmission
 brew install --cask the-unarchiver
 brew install --cask veracrypt
 brew install --cask visual-studio-code
+
+#  Formulaes
+brew install cocoapods
+brew install curl
+brew install docker-compose
+brew install dotnet
+brew install exiftool
+brew install git
+brew install git-lfs
+brew install neofetch
