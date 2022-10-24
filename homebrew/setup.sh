@@ -6,12 +6,14 @@ brew install --cask android-studio
 brew install --cask authy
 brew install --cask balenaetcher
 brew install --cask brave-browser
+brew install --cask bitwarden
 brew install --cask caffeine
 brew install --cask discord
 brew install --cask docker
 brew install --cask dozer
 brew install --cask flutter
 brew install --cask gimp
+brew install --cask maccy
 brew install --cask malwarebytes
 brew install --cask obsidian
 brew install --cask postman
