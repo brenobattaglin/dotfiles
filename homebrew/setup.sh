@@ -11,6 +11,7 @@ brew install --cask caffeine
 brew install --cask discord
 brew install --cask docker
 brew install --cask dozer
+brew install --cask exodus
 brew install --cask flutter
 brew install --cask gimp
 brew install --cask maccy
