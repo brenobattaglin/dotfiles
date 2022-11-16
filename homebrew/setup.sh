@@ -6,7 +6,6 @@ brew install --cask android-studio
 brew install --cask authy
 brew install --cask balenaetcher
 brew install --cask brave-browser
-brew install --cask bitwarden
 brew install --cask caffeine
 brew install --cask discord
 brew install --cask docker
