@@ -14,7 +14,6 @@ brew install --cask exodus
 brew install --cask flutter
 brew install --cask gimp
 brew install --cask maccy
-brew install --cask malwarebytes
 brew install --cask obsidian
 brew install --cask postman
 brew install --cask rectangle
