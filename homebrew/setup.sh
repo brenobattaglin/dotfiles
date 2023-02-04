@@ -27,6 +27,7 @@ casks = (
     "veracrypt"
     "visual-studio"
     "visual-studio-code"
+    "zoom"
 )
 
 formulaes = (
