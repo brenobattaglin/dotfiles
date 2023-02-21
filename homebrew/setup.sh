@@ -22,6 +22,7 @@ casks = (
     "postman"
     "rectangle"
     "spotify"
+    "steam"
     "transmission"
     "the-unarchiver"
     "veracrypt"
