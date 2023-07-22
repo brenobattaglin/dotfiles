@@ -1,16 +1,16 @@
 #!/bin/sh
 
-casks = (
+casks=(
     "android-studio"
     "authy"
     "balenaetcher"
     "beekeeper-studio"
+    "brave-browser"
     "caffeine"
     "discord"
-    "docker"
     "dozer"
     "exodus"
-    "firefox"
+    "filen"
     "flutter"
     "gimp"
     "iina"
@@ -24,15 +24,15 @@ casks = (
     "spotify"
     "steam"
     "transmission"
-    "the-unarchiver"
     "veracrypt"
     "visual-studio"
     "visual-studio-code"
     "zoom"
 )
 
-formulaes = (
+formulaes=(
     "cocoapods"
+    "colima"
     "curl"
     "docker-compose"
     "dotnet"
