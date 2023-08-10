@@ -2,7 +2,6 @@
 
 casks=(
     "android-studio"
-    "authy"
     "balenaetcher"
     "beekeeper-studio"
     "brave-browser"
@@ -16,6 +15,7 @@ casks=(
     "iina"
     "iterm2"
     "kindle"
+    "libreoffice"
     "maccy"
     "macfuse"
     "obsidian"
@@ -23,6 +23,7 @@ casks=(
     "rectangle"
     "spotify"
     "steam"
+    "ticktick"
     "transmission"
     "veracrypt"
     "visual-studio"
