@@ -18,6 +18,8 @@ casks=(
     "libreoffice"
     "maccy"
     "macfuse"
+    "nordvpn"
+    "nordpass"
     "obsidian"
     "postman"
     "rectangle"
