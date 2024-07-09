@@ -4,20 +4,16 @@ casks=(
     "android-studio"
     "balenaetcher"
     "beekeeper-studio"
-    "brave-browser"
     "caffeine"
     "discord"
-    "dozer"
     "exodus"
     "filen"
     "flutter"
+    "firefox"
     "gimp"
     "iina"
     "iterm2"
-    "kindle"
-    "libreoffice"
     "maccy"
-    "macfuse"
     "nordvpn"
     "nordpass"
     "obsidian"
@@ -28,8 +24,7 @@ casks=(
     "ticktick"
     "transmission"
     "veracrypt"
-    "visual-studio"
-    "visual-studio-code"
+    "zed"
     "zoom"
 )
 
@@ -42,7 +37,7 @@ formulaes=(
     "exiftool"
     "git"
     "git-lfs"
-    "neofetch"
+    "python"
 )
 
 for c in ${casks[@]};
