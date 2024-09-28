@@ -15,7 +15,6 @@ casks=(
     "iterm2"
     "maccy"
     "nordvpn"
-    "nordpass"
     "obsidian"
     "postman"
     "rectangle"
@@ -23,7 +22,6 @@ casks=(
     "steam"
     "ticktick"
     "transmission"
-    "veracrypt"
     "zed"
     "zoom"
 )
