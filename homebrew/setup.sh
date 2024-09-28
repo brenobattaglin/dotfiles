@@ -9,7 +9,6 @@ casks=(
     "exodus"
     "filen"
     "flutter"
-    "firefox"
     "gimp"
     "iina"
     "iterm2"
@@ -17,12 +16,13 @@ casks=(
     "nordvpn"
     "obsidian"
     "postman"
+    "qbittorrent"
     "rectangle"
     "spotify"
     "steam"
     "ticktick"
-    "transmission"
     "zed"
+    "zen-browser"
     "zoom"
 )
 
