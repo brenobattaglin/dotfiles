@@ -5,6 +5,7 @@ casks=(
     "balenaetcher"
     "beekeeper-studio"
     "caffeine"
+    "deezer"
     "discord"
     "exodus"
     "filen"
