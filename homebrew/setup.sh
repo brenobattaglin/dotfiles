@@ -9,6 +9,7 @@ casks=(
     "discord"
     "exodus"
     "filen"
+    "firefox"
     "flutter"
     "gimp"
     "iina"
@@ -23,8 +24,6 @@ casks=(
     "steam"
     "ticktick"
     "zed"
-    "zen-browser"
-    "zoom"
 )
 
 formulaes=(
