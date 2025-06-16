@@ -6,6 +6,7 @@ casks=(
     "beekeeper-studio"
     "caffeine"
     "discord"
+    "docker"
     "exodus"
     "filen"
     "firefox"
@@ -13,6 +14,7 @@ casks=(
     "gimp"
     "iina"
     "iterm2"
+    "kubectl"
     "maccy"
     "nordvpn"
     "obsidian"
@@ -21,20 +23,17 @@ casks=(
     "rectangle"
     "spotify"
     "steam"
-    "ticktick"
-    "zed"
 )
 
 formulaes=(
     "cocoapods"
-    "colima"
     "curl"
     "docker-compose"
     "dotnet"
-    "exiftool"
+    "kubectl"
+    "kind"
     "git"
     "git-lfs"
-    "python"
 )
 
 for c in ${casks[@]};
