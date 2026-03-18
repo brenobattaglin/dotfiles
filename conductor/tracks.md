@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: Modernize shell configuration and automate Zsh setup**
+- [x] **Track: Modernize shell configuration and automate Zsh setup**
   *Link: [./tracks/shell_setup_20260317/](./tracks/shell_setup_20260317/)*
