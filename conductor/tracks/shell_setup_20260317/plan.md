@@ -1,9 +1,9 @@
 # Implementation Plan: Modernize shell configuration and automate Zsh setup
 
 ## Phase 1: Foundation and Automation
-- [ ] Task: Create a unified Zsh setup script.
-    - [ ] Draft a shell script that checks for Zsh and sets it as the default.
-    - [ ] Implement a check for oh-my-zsh and automate its installation if missing.
+- [x] Task: Create a unified Zsh setup script. 54455d8
+    - [x] Draft a shell script that checks for Zsh and sets it as the default.
+    - [x] Implement a check for oh-my-zsh and automate its installation if missing.
 - [ ] Task: Migrate and modernize existing aliases.
     - [ ] Analyze the current `.zshrc` in `oh-my-zsh/` and extract key aliases.
     - [ ] Create a dedicated aliases file for better organization.
