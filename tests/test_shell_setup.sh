@@ -16,4 +16,21 @@ else
     exit 1
 fi
 
+# Test idempotency: running it twice shouldn't fail
+bash zsh/setup.sh > /dev/null
+if [[ $? -eq 0 ]]; then
+    echo "Test passed: zsh/setup.sh is idempotent (first run)"
+else
+    echo "Test failed: zsh/setup.sh failed on first run"
+    exit 1
+fi
+
+bash zsh/setup.sh > /dev/null
+if [[ $? -eq 0 ]]; then
+    echo "Test passed: zsh/setup.sh is idempotent (second run)"
+else
+    echo "Test failed: zsh/setup.sh failed on second run"
+    exit 1
+fi
+
 exit 0
