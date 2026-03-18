@@ -7,12 +7,12 @@
 - [x] Task: Migrate and modernize existing aliases. 840c649
     - [x] Analyze the current `.zshrc` in `oh-my-zsh/` and extract key aliases.
     - [x] Create a dedicated aliases file for better organization.
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Foundation and Automation' (Protocol in workflow.md)
+- [x] Task: User Manual Verification 'Phase 1: Foundation and Automation' (Protocol in workflow.md) 50f88a9
 
 ## Phase 2: Refinement and Validation
-- [ ] Task: Implement idempotency and error handling.
-    - [ ] Ensure the setup script can be run multiple times without causing issues.
-    - [ ] Add basic logging and error messages for troubleshooting.
+- [x] Task: Implement idempotency and error handling. 609582c
+    - [x] Ensure the setup script can be run multiple times without causing issues.
+    - [x] Add basic logging and error messages for troubleshooting.
 - [ ] Task: Final testing and documentation.
     - [ ] Verify the setup on the local machine (manual validation).
     - [ ] Update any relevant comments in the scripts.
