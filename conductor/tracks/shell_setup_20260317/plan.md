@@ -1,6 +1,6 @@
 # Implementation Plan: Modernize shell configuration and automate Zsh setup
 
-## Phase 1: Foundation and Automation
+## Phase 1: Foundation and Automation [checkpoint: 50f88a9]
 - [x] Task: Create a unified Zsh setup script. 54455d8
     - [x] Draft a shell script that checks for Zsh and sets it as the default.
     - [x] Implement a check for oh-my-zsh and automate its installation if missing.
