@@ -4,9 +4,9 @@
 - [x] Task: Create a unified Zsh setup script. 54455d8
     - [x] Draft a shell script that checks for Zsh and sets it as the default.
     - [x] Implement a check for oh-my-zsh and automate its installation if missing.
-- [ ] Task: Migrate and modernize existing aliases.
-    - [ ] Analyze the current `.zshrc` in `oh-my-zsh/` and extract key aliases.
-    - [ ] Create a dedicated aliases file for better organization.
+- [x] Task: Migrate and modernize existing aliases. 840c649
+    - [x] Analyze the current `.zshrc` in `oh-my-zsh/` and extract key aliases.
+    - [x] Create a dedicated aliases file for better organization.
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Foundation and Automation' (Protocol in workflow.md)
 
 ## Phase 2: Refinement and Validation
