@@ -12,8 +12,8 @@ casks=(
     "firefox"
     "flutter"
     "gimp"
+    "ghostty"
     "iina"
-    "iterm2"
     "kubectl"
     "maccy"
     "nordvpn"
@@ -34,6 +34,7 @@ formulaes=(
     "kind"
     "git"
     "git-lfs"
+    "mole"
 )
 
 for c in ${casks[@]};
