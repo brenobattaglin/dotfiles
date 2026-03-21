@@ -13,4 +13,5 @@
 ## Configuration and Automation
 - **Zsh Aliases & Oh-My-Zsh:** Personalized shell configurations for increased productivity.
 - **Git Config:** Standardized Git configuration for all projects.
+- **Tmux & TPM:** Terminal multiplexer configuration with plugin management.
 - **macOS Defaults (via AppleScript/Shell):** Automating system preference adjustments for a consistent experience.
