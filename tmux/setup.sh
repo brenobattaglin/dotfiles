@@ -12,4 +12,8 @@ if [ ! -d "$HOME/.tmux/plugins/tpm" ]; then
     git clone https://github.com/tmux-plugins/tpm "$HOME/.tmux/plugins/tpm"
 fi
 
+# Install plugins using tpm
+echo "Installing tmux plugins..."
+sh "$HOME/.tmux/plugins/tpm/bin/install_plugins"
+
 echo "tmux setup complete."
