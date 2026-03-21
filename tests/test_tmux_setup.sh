@@ -45,6 +45,15 @@ else
     exit 1
 fi
 
+# Check if TPM was installed
+if [ -d "$MOCK_HOME/.tmux/plugins/tpm" ]; then
+    echo "Test passed: TPM was installed"
+else
+    echo "Test failed: TPM was not installed"
+    rm -rf "$MOCK_HOME"
+    exit 1
+fi
+
 # Clean up
 rm -rf "$MOCK_HOME"
 
