@@ -3,22 +3,18 @@
 casks=(
     "android-studio"
     "balenaetcher"
-    "beekeeper-studio"
     "caffeine"
+    "dbeaver-community"
     "discord"
     "docker"
     "exodus"
     "filen"
     "firefox"
     "flutter"
-    "gimp"
-    "ghostty"
     "iina"
     "kubectl"
     "maccy"
-    "nordvpn"
     "obsidian"
-    "postman"
     "qbittorrent"
     "rectangle"
     "spotify"
@@ -35,6 +31,7 @@ formulaes=(
     "git"
     "git-lfs"
     "mole"
+    "tmux"
 )
 
 for c in ${casks[@]};
