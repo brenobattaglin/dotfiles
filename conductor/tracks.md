@@ -4,6 +4,3 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [x] **Track: Improve tmux setup script: update shebang to #!/bin/sh, add tpm, nordtheme, and tmux-which-key**
-*Link: [./tracks/improve_tmux_setup_20260320/](./tracks/improve_tmux_setup_20260320/)*
-
