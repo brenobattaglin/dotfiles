@@ -1,0 +1,8 @@
+{
+  "track_id": "improve_tmux_setup_20260320",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-03-20T21:45:00Z",
+  "updated_at": "2026-03-20T21:45:00Z",
+  "description": "Improve tmux setup script: update shebang to #!/bin/sh, add tpm, nordtheme, and tmux-which-key"
+}
