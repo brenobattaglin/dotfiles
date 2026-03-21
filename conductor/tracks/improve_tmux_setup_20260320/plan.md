@@ -2,7 +2,7 @@
 
 #### Phase 1: Foundation & TPM Integration
 - [x] Task: Update `tmux/setup.sh` shebang to `#!/bin/sh`. (0c8151a)
-- [ ] Task: Implement TPM (Tmux Plugin Manager) installation in `tmux/setup.sh`.
+- [x] Task: Implement TPM (Tmux Plugin Manager) installation in `tmux/setup.sh`. (2650267)
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Foundation & TPM Integration' (Protocol in workflow.md).
 
 #### Phase 2: Configuration & Plugins
