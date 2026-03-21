@@ -12,4 +12,4 @@
     - [x] Add `alexwforsythe/tmux-which-key` definition.
     - [x] Add TPM initialization snippet at the bottom.
 - [x] Task: Update `tmux/setup.sh` to trigger TPM plugin installation (`~/.tmux/plugins/tpm/bin/install_plugins`). (9150c30)
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Configuration & Plugins' (Protocol in workflow.md).
+- [~] Task: Conductor - User Manual Verification 'Phase 2: Configuration & Plugins' (Protocol in workflow.md).
