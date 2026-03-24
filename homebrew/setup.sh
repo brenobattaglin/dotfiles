@@ -31,6 +31,8 @@ formulaes=(
     "git"
     "git-lfs"
     "mole"
+    "node"
+    "nvm"
     "tmux"
 )
 
