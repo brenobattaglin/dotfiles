@@ -1,8 +1,0 @@
-{
-  "track_id": "shell_setup_20260317",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-03-17T00:00:00Z",
-  "updated_at": "2026-03-17T00:00:00Z",
-  "description": "Modernize shell configuration and automate Zsh setup"
-}
