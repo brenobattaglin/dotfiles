@@ -3,8 +3,10 @@
 # tmux/setup.sh
 # Automates the setup of tmux configuration.
 
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
 echo "Copying tmux configuration..."
-cp tmux/.tmux.conf "$HOME/.tmux.conf"
+cp -f "$SCRIPT_DIR/.tmux.conf" "$HOME/.tmux.conf"
 
 # Install TPM if not already present
 if [ ! -d "$HOME/.tmux/plugins/tpm" ]; then
@@ -12,8 +14,9 @@ if [ ! -d "$HOME/.tmux/plugins/tpm" ]; then
     git clone https://github.com/tmux-plugins/tpm "$HOME/.tmux/plugins/tpm"
 fi
 
-# Install plugins using tpm
-echo "Installing tmux plugins..."
-sh "$HOME/.tmux/plugins/tpm/bin/install_plugins"
-
 echo "tmux setup complete."
+echo ""
+echo "To finish setup and install the plugins:"
+echo "1. Run tmux"
+echo "2. Run 'tmux source ~/.tmux.conf'"
+echo "3. Use Prefix + I to install the plugins"
