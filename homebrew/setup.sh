@@ -27,6 +27,7 @@ formulaes=(
     "btop"
     "cocoapods"
     "curl"
+    "czkawka"
     "docker-compose"
     "dotnet"
     "kubectl"
