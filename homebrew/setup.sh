@@ -7,10 +7,12 @@ casks=(
     "dbeaver-community"
     "discord"
     "docker"
+    "ente-auth"
     "exodus"
     "filen"
     "firefox"
     "flutter"
+    "ghostty"
     "iina"
     "kubectl"
     "maccy"
@@ -22,12 +24,14 @@ casks=(
 )
 
 formulaes=(
+    "btop"
     "cocoapods"
     "curl"
     "docker-compose"
     "dotnet"
     "kubectl"
     "kind"
+    "gh"
     "git"
     "git-lfs"
     "mole"
