@@ -1,2 +1,4 @@
 theme = "Nord"
 font-size = 12
+macos-icon = xray
+font-family = DejaVu Sans Mono for Powerline
