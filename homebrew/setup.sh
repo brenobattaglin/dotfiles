@@ -9,6 +9,8 @@ casks=(
     "docker"
     "ente-auth"
     "exodus"
+    "font-monaspace-nerd-font"
+    "font-noto-sans-symbols-2"
     "filen"
     "firefox"
     "flutter"
