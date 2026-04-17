@@ -40,6 +40,7 @@ formulaes=(
     "mole"
     "node"
     "nvm"
+    "restic"
     "tmux"
 )
 
