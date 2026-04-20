@@ -43,6 +43,7 @@ formulaes=(
     "nvm"
     "restic"
     "tmux"
+    "zoxide"
 )
 
 for c in ${casks[@]};
