@@ -37,6 +37,7 @@ formulaes=(
     "gh"
     "git"
     "git-lfs"
+    "glow"
     "mole"
     "node"
     "nvm"
