@@ -33,6 +33,7 @@ formulaes=(
     "czkawka"
     "docker-compose"
     "dotnet"
+    "fd"
     "kubectl"
     "kind"
     "gh"
@@ -43,6 +44,7 @@ formulaes=(
     "node"
     "nvm"
     "restic"
+    "ripgrep"
     "tmux"
     "zoxide"
 )
