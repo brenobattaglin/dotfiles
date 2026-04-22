@@ -9,6 +9,7 @@ casks=(
     "docker"
     "ente-auth"
     "exodus"
+    "font-dejavu-sans-mono-for-powerline"
     "font-monaspace-nerd-font"
     "font-noto-sans-symbols-2"
     "filen"
