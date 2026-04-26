@@ -13,7 +13,6 @@ casks=(
     "font-monaspace-nerd-font"
     "font-noto-sans-symbols-2"
     "filen"
-    "firefox"
     "flutter"
     "ghostty"
     "iina"
@@ -24,6 +23,7 @@ casks=(
     "rectangle"
     "spotify"
     "steam"
+    "zen"
 )
 
 formulaes=(
@@ -49,6 +49,7 @@ formulaes=(
     "nvm"
     "restic"
     "ripgrep"
+    "tree-sitter"
     "tmux"
     "zoxide"
 )
