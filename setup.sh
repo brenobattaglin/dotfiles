@@ -1,7 +1,6 @@
 #!/bin/bash
 
 casks=(
-    "android-studio"
     "balenaetcher"
     "caffeine"
     "dbeaver-community"
@@ -16,7 +15,6 @@ casks=(
     "flutter"
     "ghostty"
     "iina"
-    "kubectl"
     "maccy"
     "obsidian"
     "qbittorrent"
