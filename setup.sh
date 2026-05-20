@@ -21,6 +21,7 @@ casks=(
     "rectangle"
     "spotify"
     "steam"
+    "zed"
     "zen"
 )
 
