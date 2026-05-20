@@ -44,4 +44,13 @@ else
   echo "zsh-syntax-highlighting already installed"
 fi
 
+# antigravity-cli
+echo "Checking antigravity.."
+if ! command -v antigravity &>/dev/null; then
+  echo "Installing antigravity-cli.."
+  curl -fsSL https://antigravity.google/cli/install.sh | bash
+else
+  echo "antigravity-cli already installed"
+fi
+
 echo "Done. Open a new terminal or run: source ~/.zshrc"
