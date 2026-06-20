@@ -14,7 +14,6 @@ plugins=(
  history
  sudo
  thefuck
- tmux
  web-search
  zoxide
  zsh-autosuggestions
