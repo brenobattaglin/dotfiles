@@ -50,6 +50,7 @@ formulaes=(
     "ripgrep"
     "tree-sitter"
     "tmux"
+    "whalebrew"
     "zoxide"
 )
 
