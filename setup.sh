@@ -16,6 +16,7 @@ casks=(
     "iina"
     "maccy"
     "obsidian"
+    "openlogi"
     "qbittorrent"
     "rectangle"
     "spotify"
