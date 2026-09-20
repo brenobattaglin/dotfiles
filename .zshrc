@@ -21,3 +21,5 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
+
+alias lazypodman='DOCKER_HOST="unix://$(podman machine inspect --format '\''{{.ConnectionInfo.PodmanSocket.Path}}'\'' 2>/dev/null)" lazydocker'
