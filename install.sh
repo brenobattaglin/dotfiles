@@ -53,4 +53,13 @@ else
   echo "antigravity-cli already installed"
 fi
 
+# rustup
+echo "Checking rustup.."
+if ! command -v rustup &>/dev/null; then
+  echo "Installing rustup.."
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+else
+  echo "rustup already installed"
+fi
+
 echo "Done. Open a new terminal or run: source ~/.zshrc"
